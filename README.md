@@ -4,6 +4,18 @@ JS XSS AMD
 
 Forked from: https://github.com/leizongmin/js-xss
 
+### Usage
+
+Read the official docs:
+
+https://github.com/leizongmin/js-xss#quick-start
+
+```bash
+bower inistall git@github.com:teambition/js-xss-amd.git
+```
+
+### A demo of loading with RequireJS
+
 In this repo, an AMD wrapper is added to the module.
 
 ```js

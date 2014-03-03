@@ -1,0 +1,23 @@
+{
+  "name": "js-xss-amd",
+  "version": "0.1.5",
+  "homepage": "https://github.com/teambition/js-xss-amd",
+  "authors": [
+    "leizongmin@gmail.com"
+  ],
+  "description": "AMD wrapper of leizongmin/js-xss",
+  "main": "xss.js",
+  "keywords": [
+    "xss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "main.js",
+    "index.html"
+  ]
+}
